@@ -95,7 +95,7 @@ To get you started, we used actions to go ahead and made a branch and pull reque
   Historic note: The previous course had troubleshooting steps for people not using the GitHub UI.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Add a job to your workflow file</h2></summary>
 
 _Nice work! :tada: You added a workflow file!_
